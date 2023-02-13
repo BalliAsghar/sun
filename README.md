@@ -1,3 +1,1 @@
-# Sun
-
-View Sunrise and Sunset
+![Sunrise and Sunset](./assets/Screenshot.png)

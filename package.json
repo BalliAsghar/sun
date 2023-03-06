@@ -16,7 +16,7 @@
       "subtitle": "Sunrise & Sunset",
       "description": "View SunRise and SunSet",
       "mode": "no-view",
-      "interval": "5h"
+      "interval": "1h"
     }
   ],
   "dependencies": {
